@@ -1,0 +1,2 @@
+# imagepdf-resizer
+NDS Needs
