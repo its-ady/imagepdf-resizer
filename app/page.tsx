@@ -55,7 +55,7 @@ export default function Home() {
         <div className="mx-auto flex max-w-2xl items-center gap-3 px-4 py-3">
           <div className="relative size-9 shrink-0 overflow-hidden rounded-lg shadow-sm">
             <Image
-              src="/icons/icon-192.png"
+              src="/icons/icon-192.webp"
               alt="Image & PDF Resizer logo"
               fill
               className="object-cover"
