@@ -12,8 +12,8 @@ export const metadata: Metadata = {
   description: 'Resize your images and PDFs to any size. Fast, free, private, and works offline.',
   manifest: '/manifest.json',
   icons: {
-    icon: [{ url: '/icons/icon-32.png', sizes: '32x32', type: 'image/png' }],
-    apple: [{ url: '/icons/apple-touch-icon.png', sizes: '180x180', type: 'image/png' }],
+    icon: [{ url: '/icons/icon-32.webp', sizes: '32x32', type: 'image/webp' }],
+    apple: [{ url: '/icons/apple-touch-icon.webp', sizes: '180x180', type: 'image/webp' }],
   },
   appleWebApp: {
     capable: true,

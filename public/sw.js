@@ -17,11 +17,11 @@ const PAGES = ["/", "/image", "/pdf", "/image-to-pdf", "/sign"]
 const FILES = [
   "/offline.html",
   "/manifest.json",
-  "/icons/icon-32.png",
-  "/icons/icon-192.png",
-  "/icons/icon-512.png",
-  "/icons/icon-maskable-512.png",
-  "/icons/apple-touch-icon.png",
+  "/icons/icon-32.webp",
+  "/icons/icon-192.webp",
+  "/icons/icon-512.webp",
+  "/icons/icon-maskable-512.webp",
+  "/icons/apple-touch-icon.webp",
 ]
 const NEXT_ASSET = /\/_next\/static\/[^"'\s\\)<>]+\.(?:js|mjs|css|woff2?)(?:\?[^"'\s\\)<>]*)?/g
 const CSS_FONT = /\/_next\/static\/media\/[^"'\s\\)<>]+/g

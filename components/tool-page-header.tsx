@@ -21,7 +21,7 @@ export function ToolPageHeader({ title }: ToolPageHeaderProps) {
         </Link>
         <div className="relative size-8 shrink-0 overflow-hidden rounded-lg shadow-sm">
           <Image
-            src="/icons/icon-192.png"
+            src="/icons/icon-192.webp"
             alt="Image & PDF Resizer logo"
             fill
             className="object-cover"
